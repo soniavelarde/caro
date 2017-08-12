@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="43cd6eda-ccef-4ca0-afb0-5906e75b7d06" name="UMLClassDiagram1" linkedPackageId="b6b2afae-72c1-4af0-b4c3-3041f12de626" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="169104ba-0125-4e28-af16-29b49e2362f5">
+      <profileInstance Id="04174ce6-7e13-4b3c-9ace-f0bb3c6b7a4e" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="6ed40a1c-5f9f-4ddd-af0d-137d4f6d1d13">
+      <profileInstance Id="e96afe72-ea1a-4578-aba3-0087762a0d5a" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="99be51b3-fcad-4453-9062-8fb70477701f" name="Class1" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a7ef9fba-aff7-4081-8fdd-cf84956eddd8" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="6d7bcd0b-1476-437e-a85f-de1a11b0e962" name="Class2" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0bb3b678-8b17-4f5a-956a-c49bda9eb48f" />
+        <ownedAttributesInternal>
+          <property Id="903d8c58-97e2-4319-bd45-e295381638fd" name="Attribute1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="2d4ee7cf-c115-477b-b4d5-842e518c9ad7" />
+          </property>
+        </ownedAttributesInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="b6b2afae-72c1-4af0-b4c3-3041f12de626" name="modelado1">
+    <elementDefinition Id="4e1e3be2-537f-485b-87ef-3ac55b12887e" />
+  </package>
+</logicalClassDesignerModel>
